@@ -1,0 +1,3 @@
+pkg1000_test_sorusu_ile_java_set_7.soru_8
+pkg1000_test_sorusu_ile_java_set_7.B
+pkg1000_test_sorusu_ile_java_set_7.ornek
